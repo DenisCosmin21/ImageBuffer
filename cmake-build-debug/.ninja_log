@@ -1,0 +1,8 @@
+# ninja log v6
+625	716	1791921882699609439	ImageBuffer	99f2d341814a2a63
+1	876	1791921836931609439	CMakeFiles/ImageBuffer.dir/src/ImageBuffer.cpp.o	f1d5319f2ee8a34c
+0	625	1791921882075609439	CMakeFiles/ImageBuffer.dir/main.cpp.o	f2e3c081cd682b06
+9	65	1791922335123609439	build.ninja	2def80371aed0aaa
+1	657	1791922345639609439	CMakeFiles/ImageBufferApp.dir/src/ImageBuffer.cpp.o	9dae04f7b7e33901
+0	753	1791922345639609439	CMakeFiles/ImageBufferApp.dir/src/main.cpp.o	c26fc9e8b4e01e61
+753	827	1791922346395609439	ImageBufferApp	bdea28b014acf0f

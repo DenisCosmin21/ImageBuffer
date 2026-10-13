@@ -1,0 +1,3 @@
+/home/debian/CLionProjects/ImageBuffer/cmake-build-debug/CMakeFiles/ImageBufferApp.dir
+/home/debian/CLionProjects/ImageBuffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/debian/CLionProjects/ImageBuffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
